@@ -1,7 +1,7 @@
-Stunting Detection Using CNN
+Stunting Detection Using CNN: 
 A deep learning model for detecting stunting in children from grayscale images using Convolutional Neural Networks (CNN).
 
-Overview
+Overview: 
 This project implements a binary classification model to identify stunting cases from medical images. The model achieves approximately 89% accuracy on test data with strong performance in detecting both normal and stunting cases.
 
 Model Architecture
